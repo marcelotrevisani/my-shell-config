@@ -1,0 +1,69 @@
+MODERN CLI TOOLS
+
+# Starship Shell
+https://starship.rs/guide/#%F0%9F%9A%80-installation
+
+# bottom - graphical process/system monitor
+https://github.com/ClementTsang/bottom#installation
+
+
+# tealdeer -  Simplified, example based and community-driven man pages.
+https://dbrgn.github.io/tealdeer/installing.html
+https://github.com/dbrgn/tealdeer
+
+
+# grex - It does so by automatically generating a single regular expression from user-provided test cases.
+https://github.com/pemistahl/grex#how-to-install
+
+
+# bandwhich - This is a CLI utility for displaying current network utilization by process, connection and remote IP/hostname
+https://github.com/imsnif/bandwhich
+
+
+# tokei - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
+https://github.com/XAMPPRocky/tokei#installation
+
+
+# ripgrep - ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern
+https://github.com/BurntSushi/ripgrep
+
+
+# dust - du + rust = dust. Like du but more intuitive.
+https://github.com/bootandy/dust
+
+
+# sd - sd is an intuitive find & replace CLI.
+https://github.com/chmln/sd
+
+
+# procs - procs is a replacement for ps written in Rust.
+https://github.com/dalance/procs
+
+
+# fd - It is a simple, fast and user-friendly alternative to find
+https://github.com/sharkdp/fd
+
+
+# exa - exa is a modern replacement for ls.
+https://github.com/ogham/exa
+
+
+# bat - A cat(1) clone with syntax highlighting and Git integration.
+https://github.com/sharkdp/bat
+
+
+# zoxide - A smarter cd command for your terminal
+https://github.com/ajeetdsouza/zoxide
+
+
+
+
+
+
+
+
+
+
+
+
+
