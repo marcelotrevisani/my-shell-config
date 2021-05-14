@@ -56,14 +56,10 @@ https://github.com/sharkdp/bat
 https://github.com/ajeetdsouza/zoxide
 
 
+# httpie - It is a user-friendly command-line HTTP client for the API era. It comes with JSON support, syntax highlighting, persistent sessions, wget-like downloads, plugins, and more.
+https://httpie.io/
 
 
-
-
-
-
-
-
-
-
+# jq - jq is a lightweight and flexible command-line JSON processor.
+https://stedolan.github.io/jq/
 
