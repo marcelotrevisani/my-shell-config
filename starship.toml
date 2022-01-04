@@ -1,0 +1,29 @@
+[conda]
+ignore_base = false
+
+[docker_context]
+disabled = false
+
+[kubernetes]
+disabled = false
+
+[memory_usage]
+disabled = false
+threshold = -1
+
+[shell]
+disabled = false
+
+[username]
+show_always = true
+
+[cmd_duration]
+show_notifications = true
+min_time = 0
+min_time_to_notify = 500
+
+[git_branch]
+always_show_remote = true
+
+[git_commit]
+tag_disabled = false
